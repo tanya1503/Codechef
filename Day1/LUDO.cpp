@@ -5,7 +5,7 @@ int main(){
     cin>>T;
     for(int i=1;i<=T;i++){
         int x;
-        cin>>x;
+      cin>>x;
         if(x==6){
             cout<<"yes"<<endl;
         }
